@@ -1,0 +1,22 @@
+
+[
+    {
+        "name": "Category1",
+        "subcategories": [
+            "subcategory1",
+            "subcategory2",
+            "subcategory3",
+            "subcategory4",
+        ]
+    },
+    {
+        "name": "Category2",
+        "subcategories": [
+            "subcategory1",
+            "subcategory2",
+            "subcategory3",
+            "subcategory4",
+        ]
+    },
+
+]
